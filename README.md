@@ -14,6 +14,8 @@ A tiny Windows app that blocks *every* key press while it's open, so you can wip
 
 </div>
 
+<img width="458" height="309" alt="image" src="https://github.com/user-attachments/assets/fef5954a-0d8d-46db-9bd9-89e3e1edaf7a" />
+
 ---
 
 ## ✨ Features
